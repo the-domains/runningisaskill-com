@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Runningisaskill.com]]></title>
         <description><![CDATA[Runningisaskill.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/runningisaskill-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 08:31:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 08:49:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/runningisaskill-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The new rules of running: Really? Again?! Yes its time to launch a new site with a review of all things running. From technique to evolution: footwear to training. Lets see how aligned conventional wisdom and science really are. Lets pit the Mainstream Press and Product Science against Evolutionary Biology and Sports Science. Whoohooo I'm excited!</p>]]></description>
+            <link>https://thegrid.ai/runningisaskill-com/the-new-rules-of-running-really-again-yes-its-time-to-la/index.html</link>
+            <guid isPermaLink="false">fb481c90-170c-4cc9-a320-fd1feff5ea39</guid>
+            <pubDate>Wed, 03 Aug 2016 08:49:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Circle of magnanimity ]]></title>
             <description><![CDATA[<article><h1>Circle of magnanimity </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a4fb6e-cebe-4ae8-9145-f4779c089c84.jpg"></article>]]></description>
