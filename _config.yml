@@ -1,14 +1,28 @@
-layout_spectrum: 0.5842294
-color:
-  saturation: 0.7222222
-  lightness: 0
-  brandStrength: 0.4336918
-  brandColors:
-    - '#FFFFFF'
-    - '#020202'
-    - '#454545'
-    - '#B4A097'
-    - '#FD7C39'
-  rhythmicContrast: 0.7544803
-typography_spectrum: 0.2956989
 name: Runningisaskill.com
+favicon: null
+layout_spectrum: 0.5842294
+typography_spectrum: 0.2956989
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#1b1a20'
+    - '#7f6b4a'
+    - '#a7aec1'
+    - '#85001d'
+    - '#066594'
+  brandStrength: 0.4336918
+  lightness: 0
+  saturation: 0.7222222
+  rhythmicContrast: 0.75
+purpose: []
