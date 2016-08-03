@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Runningisaskill.com]]></title>
+        <description><![CDATA[Runningisaskill.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 08:31:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Circle of magnanimity ]]></title>
+            <description><![CDATA[<article><h1>Circle of magnanimity </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a4fb6e-cebe-4ae8-9145-f4779c089c84.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a4fb6e-cebe-4ae8-9145-f4779c089c84.jpg</link>
+            <guid isPermaLink="false">e1b2b533-89b0-4e2d-8741-0e4e96482a0e</guid>
+            <pubDate>Wed, 03 Aug 2016 08:31:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
