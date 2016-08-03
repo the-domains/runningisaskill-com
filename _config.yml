@@ -1,5 +1,8 @@
-title: CALL 07843 501 006
-purpose: []
+name: CALL 07843 501 006
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.38819
+title: RUNNING IS A SKILL
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7222222
-  brandStrength: 0.4336918
-  lightness: 0
   brandColors:
     - '#CFE882'
     - '#9E2F3E'
     - '#C5EAFD'
     - '#A966AB'
     - '#B24C64'
+  brandStrength: 0.4336918
+  lightness: 0
+  saturation: 0.7222222
   rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: CALL 07843 501 006
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.38819
-layout_spectrum: 0
+purpose: []
